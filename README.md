@@ -1,3 +1,5 @@
+**OUTDATED!** | *New version will come out soon, with captcha support.*
+
 MoonStress.com - Account Creator
 
 **Functions:**
